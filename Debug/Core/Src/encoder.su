@@ -1,0 +1,2 @@
+../Core/Inc/ui_events.h:19:20:UI_SendEvent	24	static
+../Core/Src/encoder.c:12:6:EncoderTask	40	static

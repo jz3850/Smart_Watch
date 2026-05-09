@@ -1,0 +1,2 @@
+../Core/Inc/ui_events.h:19:20:UI_SendEvent	1
+../Core/Src/encoder.c:12:6:EncoderTask	8

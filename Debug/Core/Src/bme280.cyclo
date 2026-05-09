@@ -1,0 +1,6 @@
+../Core/Src/bme280.c:4:26:rd	1
+../Core/Src/bme280.c:7:26:wr	1
+../Core/Src/bme280.c:11:17:U16	1
+../Core/Src/bme280.c:12:17:S16	1
+../Core/Src/bme280.c:14:19:BME280_Init	8
+../Core/Src/bme280.c:54:19:BME280_ReadTempHum	8

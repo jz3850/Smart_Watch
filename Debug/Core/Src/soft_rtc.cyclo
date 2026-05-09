@@ -1,0 +1,7 @@
+../Core/Src/soft_rtc.c:12:12:is_leap	4
+../Core/Src/soft_rtc.c:15:12:days_in_month	2
+../Core/Src/soft_rtc.c:24:5:SoftRTC_SetFromISO8601	24
+../Core/Src/soft_rtc.c:45:9:SoftRTC_IsValid	1
+../Core/Src/soft_rtc.c:49:6:SoftRTC_Tick	7
+../Core/Src/soft_rtc.c:66:6:SoftRTC_Format	5
+../Core/Src/soft_rtc.c:74:6:rtc_get_time_hms	5

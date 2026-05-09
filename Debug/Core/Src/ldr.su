@@ -1,0 +1,9 @@
+../Core/Src/ldr.c:38:19:clamp_int	24	static
+../Core/Src/ldr.c:45:17:ADC_ReadOnce	16	static
+../Core/Src/ldr.c:52:17:ADC_ReadAvg	24	static
+../Core/Src/ldr.c:59:13:set_contrast_percent	24	static
+../Core/Src/ldr.c:66:6:apply_brightness	16	static
+../Core/Src/ldr.c:72:13:br_timer_cb	24	static
+../Core/Src/ldr.c:111:6:enable_auto_brightness	24	static
+../Core/Src/ldr.c:120:6:save_brightness	16	static
+../Core/Src/ldr.c:127:6:Brightness_Init	8	static
