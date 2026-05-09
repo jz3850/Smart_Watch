@@ -21,7 +21,7 @@
 
 # 系统架构
 
-<img width="1670" height="668" alt="7b1c29cc520d9075b25b1f9dce98439e" src="https://github.com/user-attachments/assets/8b8e352d-e09b-4ac8-8514-2708e8354fc9" />
+<img width="1670" height="668" alt="7b1c29cc520d9075b25b1f9dce98439e" src="https://github.com/user-attachments/assets/60abeadb-2054-414e-a1e4-7e2ef827d310" />
 
 系统以 STM32F407G-DISC1 为核心，通过 I2C、UART、ADC、GPIO、PWM 等接口连接多个外设模块。
 
@@ -38,7 +38,7 @@
 
 # FreeRTOS 任务架构
 
-<img width="1916" height="1148" alt="d4b7335f0f54e66b9a67453aced5e76b" src="https://github.com/user-attachments/assets/772af63c-ef26-406e-a0f4-abb40bad61c5" />
+<img width="1916" height="1148" alt="d4b7335f0f54e66b9a67453aced5e76b" src="https://github.com/user-attachments/assets/1ddf2491-ffdb-4316-9ebc-6c60adbb6e21" />
 
 系统采用事件驱动 + 多任务解耦设计：
 
